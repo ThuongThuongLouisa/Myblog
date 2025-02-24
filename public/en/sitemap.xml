@@ -2,211 +2,211 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ThuongThuongLouisa.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-11T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ThuongThuongLouisa.github.io/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/tags/adritian/</loc>
+    <loc>http://localhost:1313/tags/adritian/</loc>
     <lastmod>2025-02-11T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/blog/getting-started/</loc>
+    <loc>http://localhost:1313/blog/getting-started/</loc>
     <lastmod>2025-02-11T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/tags/guide/</loc>
+    <loc>http://localhost:1313/tags/guide/</loc>
     <lastmod>2025-02-11T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-11T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ThuongThuongLouisa.github.io/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/experience/"
+                href="http://localhost:1313/es/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ThuongThuongLouisa.github.io/fr/experience/"
+                href="http://localhost:1313/fr/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/experience/"
+                href="http://localhost:1313/experience/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/experience/job-3/</loc>
+    <loc>http://localhost:1313/experience/job-3/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/experience/job-3/"
+                href="http://localhost:1313/es/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ThuongThuongLouisa.github.io/fr/experience/job-3/"
+                href="http://localhost:1313/fr/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/experience/job-3/"
+                href="http://localhost:1313/experience/job-3/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/testimonial/graziella-nutella/</loc>
+    <loc>http://localhost:1313/testimonial/graziella-nutella/</loc>
     <lastmod>2024-11-25T21:53:18+01:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/testimonial/</loc>
+    <loc>http://localhost:1313/testimonial/</loc>
     <lastmod>2024-11-25T21:53:18+01:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/testimonial/dana-oneal/</loc>
+    <loc>http://localhost:1313/testimonial/dana-oneal/</loc>
     <lastmod>2024-11-25T21:50:45+01:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/testimonial/ferdinand-shermand/</loc>
+    <loc>http://localhost:1313/testimonial/ferdinand-shermand/</loc>
     <lastmod>2024-11-25T21:30:46+01:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/client-work/</loc>
+    <loc>http://localhost:1313/client-work/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/client-work/ztos/</loc>
+    <loc>http://localhost:1313/client-work/ztos/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/client-work/zoo/</loc>
+    <loc>http://localhost:1313/client-work/zoo/</loc>
     <lastmod>2024-08-25T10:23:08+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/client-work/kanba/</loc>
+    <loc>http://localhost:1313/client-work/kanba/</loc>
     <lastmod>2024-08-25T10:22:34+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/client-work/goldline/</loc>
+    <loc>http://localhost:1313/client-work/goldline/</loc>
     <lastmod>2024-08-25T10:21:48+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/client-work/earth2.0/</loc>
+    <loc>http://localhost:1313/client-work/earth2.0/</loc>
     <lastmod>2024-08-25T10:17:12+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/client-work/asgardia/</loc>
+    <loc>http://localhost:1313/client-work/asgardia/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/projects/radity-finance-uikit/</loc>
+    <loc>http://localhost:1313/projects/radity-finance-uikit/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/projects/robo-advisor/</loc>
+    <loc>http://localhost:1313/projects/robo-advisor/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/projects/swiss-fintech/</loc>
+    <loc>http://localhost:1313/projects/swiss-fintech/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/blog/sample-3/</loc>
+    <loc>http://localhost:1313/blog/sample-3/</loc>
     <lastmod>2024-06-24T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/blog/sample-2/</loc>
+    <loc>http://localhost:1313/blog/sample-2/</loc>
     <lastmod>2024-06-23T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/tags/lorem-ipsum/</loc>
+    <loc>http://localhost:1313/tags/lorem-ipsum/</loc>
     <lastmod>2024-06-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/tags/sample/</loc>
+    <loc>http://localhost:1313/tags/sample/</loc>
     <lastmod>2024-06-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/blog/sample/</loc>
+    <loc>http://localhost:1313/blog/sample/</loc>
     <lastmod>2024-06-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/experience/job-3.es-copy/</loc>
+    <loc>http://localhost:1313/experience/job-3.es-copy/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/experience/job-2/</loc>
+    <loc>http://localhost:1313/experience/job-2/</loc>
     <lastmod>2023-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ThuongThuongLouisa.github.io/fr/experience/job-2/"
+                href="http://localhost:1313/fr/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/experience/job-2/"
+                href="http://localhost:1313/es/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/experience/job-2/"
+                href="http://localhost:1313/experience/job-2/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/blog/"
+                href="http://localhost:1313/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/blog/"
+                href="http://localhost:1313/blog/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/experience/job-1/</loc>
+    <loc>http://localhost:1313/experience/job-1/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/experience/job-1/"
+                href="http://localhost:1313/es/experience/job-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/experience/job-1/"
+                href="http://localhost:1313/experience/job-1/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ThuongThuongLouisa.github.io/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ThuongThuongLouisa.github.io/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ThuongThuongLouisa.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://ThuongThuongLouisa.github.io/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
   </url>
 </urlset>
