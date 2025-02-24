@@ -1,0 +1,21 @@
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Hugo
+        run: |
+          sudo apt-get install hugo -y
+
+      - name: Build Hugo site
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.email "thuongthuonglouisa@gmail.com"
+          git config --global user.name "Thuong Thuong"
+          git add .
+          git commit -m "Deploy Hugo site"
+          git push origin main
