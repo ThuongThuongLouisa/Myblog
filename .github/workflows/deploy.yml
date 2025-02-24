@@ -1,13 +1,20 @@
+name: Deploy Hugo site
+
+on:
+  push:
+    branches:
+      - main # Chạy khi có code mới trên nhánh main
+
 jobs:
   build:
     runs-on: self-hosted
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Install Hugo
-        run: |
-          sudo apt-get install hugo -y
+        run: sudo apt-get install hugo -y
 
       - name: Build Hugo site
         run: hugo --minify
